@@ -17,3 +17,7 @@ if __name__ == "__main__":
     print(f"Random numbers: {data}")
     stats = calculate_statistics(data)
     print(f"Statistics: {stats}")
+
+    print("This is python code")
+
+    print(5 > 2)
