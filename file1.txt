@@ -5,3 +5,5 @@ Data engineering requires careful planning and execution.
 Git is a powerful version control system.
 Python is ideal for data processing tasks.
 Always commit your changes with clear messages.
+
+This is new line and updated.
